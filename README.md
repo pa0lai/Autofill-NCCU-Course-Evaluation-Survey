@@ -17,8 +17,11 @@
 
 ## 安裝方式
 
-1. 在 Chrome / Firefox 安裝 [Tampermonkey](https://www.tampermonkey.net/)。  
-2. 點擊 Tampermonkey 圖示 → **新增腳本** → 將*nccu-auto-fill.user.js*貼入並儲存：  
+1. 在 Chrome / Firefox （Chromium目前不可用）安裝 [Tampermonkey](https://www.tampermonkey.net/)。  
+2. 點擊 Tampermonkey 圖示 → **新增腳本** → 將*nccu-auto-fill.user.js*貼入並儲存
+
+    **務必要把extension中的developer mode 開啟！！！**  
+
 3. 前往 NCCU 問卷頁面，校務資訊系統 → 學生資訊系統 → 學術服務→ 本學期教學意見調查，點選課程問卷（會自動幫你填答），檢查後即可送出。
 
 
